@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/plant-scanner/static/css/main.b498b942.css",
-    "main.js": "/plant-scanner/static/js/main.ad563dbb.js",
+    "main.js": "/plant-scanner/static/js/main.3a46d0c8.js",
     "static/js/592.50a20f3c.chunk.js": "/plant-scanner/static/js/592.50a20f3c.chunk.js",
     "static/media/bg.jpg": "/plant-scanner/static/media/bg.fb6c2a90b913785b84a0.jpg",
     "index.html": "/plant-scanner/index.html",
     "main.b498b942.css.map": "/plant-scanner/static/css/main.b498b942.css.map",
-    "main.ad563dbb.js.map": "/plant-scanner/static/js/main.ad563dbb.js.map",
+    "main.3a46d0c8.js.map": "/plant-scanner/static/js/main.3a46d0c8.js.map",
     "592.50a20f3c.chunk.js.map": "/plant-scanner/static/js/592.50a20f3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b498b942.css",
-    "static/js/main.ad563dbb.js"
+    "static/js/main.3a46d0c8.js"
   ]
 }
