@@ -1,17 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
 .img-logo{
-  height: 15vh;
+  width: 30vw;
 }
-.font-theme{
-  font-family: 'Protest Revolution', sans-serif;
-}
+
 .logo-title{
   font-family: 'Protest Revolution', sans-serif;
   font-size: 3rem;
-  margin-left: 1rem;
-  margin-top: 15px;
-  margin-bottom: 0;
-  height: 12vh;
+  margin-left: 3rem;
+  height: 100%;
 }
 .main{
   background: url("../public/images/bg.jpg") ;
@@ -102,42 +98,13 @@
   border: none;
   outline: none;
 }
-.login-container{
-  width: 80vw;
-  margin: auto;
-  border-radius: 20px;
-}
-.cursor-pointer{
-  cursor: pointer;
-}
-.menubar{
-  width: 70vw;
-  height: 100vh;
-  position: fixed;
-  background-color: white;
-  top: 0;
-  right: 0;
-  transition: transform 0.3s;
-}
-.menuicon{
-  transform: scale(1.5);
-  margin-right: 5vh;
-}
 @media only screen and (max-width: 600px) {
   .logo-title{
-    font-size: 1.3rem;
-    height: 4vh;
-    margin-left:5px ;
-    margin-top: 0;
-  }
-  .img-logo{
-    height: 6vh;
+    font-size: 1.6rem;
+    margin-left: 1rem;
   }
   .info-container{
     width: 90vw;
   }
-  .menuicon{
-    transform: scale(1.2);
-    margin-right: 0;
-  }
+  
 }
